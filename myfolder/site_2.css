@@ -1,0 +1,16 @@
+body{
+    background-image: url(/01_HTML/image/mountain.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    background: linear-gradient(to right,skyblue, white);
+    padding: 5px;
+}
+p{
+    background: linear-gradient(to left,skyblue, white);
+    font-size: 20px;
+    padding: 5px;
+}
